@@ -15,8 +15,8 @@ A lightweight Python command-line tool that converts PDF documents to Markdown f
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/pdf2md.git
-cd pdf-to-markdown
+git clone https://github.com/makalin/pdf2md.git
+cd pdf2md
 ```
 
 2. Install dependencies:
